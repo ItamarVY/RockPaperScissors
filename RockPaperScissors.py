@@ -9,15 +9,16 @@ stutos = turtle.Turtle()
 wn = turtle.Screen()
 
 paper_image1 = "Paper clicked1.gif"
-paper_image2 = "Paper Unclicked1.GIf"
-Rock_image2 = "Rock clicked1.GIF"
-Rock_image1 = "Rock Unclicked1.GIF"
-Scissors_image2 = "Scissors clicked1.GIF"
-Scissors_image1 = "Scissors Unclicked1.GIF"
-Won_image = "Won.GIF"
-Lost_image = "Lost.GIF"
-none_image = "None.GIF"
-tie_image = "Tie.GIF"
+paper_image2 = "Paper Unclicked1.gif"
+Rock_image2 = "Rock clicked1.gif"
+Rock_image1 = "Rock Unclicked1.gif"
+Scissors_image2 = "Scissors clicked1.gif"
+Scissors_image1 = "Scissors Unclicked1.gif"
+Won_image = "Won.gif"
+Lost_image = "Lost.gif"
+none_image = "None.gif"
+tie_image = "Tie.gif"
+
 wn.addshape(paper_image1)
 wn.addshape(Won_image)
 wn.addshape(Lost_image)
